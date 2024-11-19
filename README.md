@@ -23,9 +23,9 @@
     <h2 style="color: #007BFF;">Connect with Me</h2>
     <p>Feel free to reach out to me on social media or check out my other profiles:</p>
     <ul style="list-style-type: none; padding: 0;"> 
-       <li><a href="https://instagram.com/yourprofile" target="_blank">Portfolio</a></li>
+       <li><a href="https://abhishek-portfolio-vert.vercel.app/" target="_blank">Portfolio</a></li>
       <li><a href="https://twitter.com/yourprofile" target="_blank">Twitter</a></li>
-        <li><a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/abhishek-chauhan/1a103a26b" target="_blank">LinkedIn</a></li>
         <li><a href="https://instagram.com/yourprofile" target="_blank">Instagram</a></li>
     </ul>
 </section>
